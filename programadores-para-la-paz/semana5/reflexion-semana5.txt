@@ -3,4 +3,4 @@ aplicaciones donde las personas puedan enviar reportes, alertas o sugerencias de
 se almacena en un mismo lugar y no se pierde entre mensajes o diferentes plataformas. Además, facilita que los líderes comunitarios y los ciudadanos puedan 
 identificar los problemas más importantes y darles seguimiento de manera organizada. También permite compartir información relevante de forma rápida con todos los 
 miembros de la comunidad y confirmar que los mensajes fueron recibidos correctamente. En conclusión, las APIs ayudan a mejorar la comunicación, optimizar la gestión
-de la información y fortalecer el trabajo colaborativo para resolver las necesidades de la comunidad.
+de la información y fortalecer el trabajo colaborativo para resolver las necesidades de la comunidad. 
